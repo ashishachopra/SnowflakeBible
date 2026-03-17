@@ -4,3 +4,4 @@ https://github.com/NickAkincilar;
 https://github.com/iamontheinet;
 https://github.com/jdanielmyers;
 https://github.com/Mahdi-Askari
+https://github.com/Snowflake-Labs/blueprint-manager/
